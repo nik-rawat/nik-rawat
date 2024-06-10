@@ -6,6 +6,7 @@ Web Developer and ACM Core Member
 
 *   🌍  I'm based in Ghaziabad, India
 *   ✉️  You can contact me at [nikhilrawat@acm.org](mailto:nikhilrawat@acm.org)
+*   🧑🏻‍💻  I'm a MERN Developer
 *   🧠  I'm learning Blockchain (WEB3)
 *   🤝  I'm open to collaborating on interesting projects
   # Skills 
