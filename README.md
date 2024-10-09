@@ -76,6 +76,6 @@ Web Developer and ACM Core Member
   <a href="http://www.github.com/nik-rawat" align="left">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=nik-rawat&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/nik-rawat">
+  <a href="https://github.com/nik-rawat" align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nik-rawat&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
   </a>
