@@ -70,12 +70,6 @@ Web Developer and ACM Core Member
   
   # My GitHub Stats
   
-  <a href="http://www.github.com/nik-rawat">
-    <img src="https://github-readme-stats.vercel.app/api?username=nik-rawat&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="nik-rawat's GitHub stats" />
-  </a>
-  <a href="http://www.github.com/nik-rawat" align="left">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nik-rawat&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/nik-rawat" align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nik-rawat&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
-  </a>
+  ![nik-rawat's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nik-rawat&theme=tokyonight&hide_border=true)
+  ![nik-rawat's Stats](https://github-readme-stats.vercel.app/api?username=nik-rawat&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+  ![nik-rawat's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nik-rawat&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
